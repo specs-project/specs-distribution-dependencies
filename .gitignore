@@ -1,0 +1,13 @@
+
+.*
+!/.gitignore
+!/.gitmodules
+!/.scripts
+!/.scripts/**
+
+!/dependencies/.specs-dependencies
+!/dependencies/.mosaic-dependencies
+!/dependencies/**
+
+*#
+*~
